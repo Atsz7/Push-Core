@@ -46,6 +46,8 @@ dependencies {
     // EventBus
     implementation "org.greenrobot:eventbus:$eventbus_version"
 
+    implementation project(':core')
+
     testImplementation "junit:junit:$junit_version"
     androidTestImplementation "androidx.test.ext:junit:$android_junit_version"
     androidTestImplementation "androidx.test.espresso:espresso-core:$espresso_version"
