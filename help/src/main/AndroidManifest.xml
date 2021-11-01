@@ -2,4 +2,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.app.atsz7.pushcore.help">
 
+    <application>
+        <activity
+            android:name=".ui.HelpActivity"
+            android:label="@string/help_title" />
+    </application>
+
 </manifest>
