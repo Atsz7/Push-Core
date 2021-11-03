@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Push Core</string>
+    <string name="main_go_to_help">Open help activity</string>
+</resources>

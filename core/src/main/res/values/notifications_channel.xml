@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="channel_name">Push notifications</string>
+    <string name="channel_description">This channel is used by the Push Core application initially to display notifications in a standard way.</string>
+</resources>

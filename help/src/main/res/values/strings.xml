@@ -1,0 +1,5 @@
+<resources>
+    <string name="help_title">Help module</string>
+    <string name="help_hello">Hello from the help module!</string>
+    <string name="help_push_notification">A notification has arrived, it will be postponed!.</string>
+</resources>
